@@ -14,7 +14,7 @@ url:              dukejournal.github.io
 baseurl:          /
 
 author:
-  name:           'Duck'
+  name:           'Duke'
   url:            http://dukejournal.github.io
 
 paginate:         5
